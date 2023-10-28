@@ -1,4 +1,4 @@
-FROM node:20.8.1-bullseye-slim
+FROM node:19-bullseye
 ENV NODE_ENV=production
 
 WORKDIR /app
