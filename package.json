@@ -1,7 +1,5 @@
 {
-  "name": "mathematics",
-  "version": "5.0.1",
-  "type": "module",
+  "name": "newmath",
   "engines": {
     "npm": ">=7.0.0",
     "node": ">=16.0.0"
