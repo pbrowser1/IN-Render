@@ -70,5 +70,5 @@ server.on('listening', () => {
 });
 
 server.listen({
-  port: PORT,
+  port: 8080,
 });
